@@ -2,17 +2,22 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:075985,100:38BDF8&height=280&section=header&text=SWATHI.exe&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Developer%20%7C%20Python%20%26%20Web%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descSize=17&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:38BDF8&height=260&section=header&text=SWATHI&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20DSA%20Learner%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&animation=twinkling" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=%3E+initializing+Swathi.exe...;%3E+building+web+projects+%F0%9F%92%BB;%3E+learning+Python+%F0%9F%90%8D;%3E+exploring+React+%E2%9A%9B%EF%B8%8F;%3E+solving+problems+%F0%9F%A7%A0;%3E+system.status%3Dlearning" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=%3E+initializing+Swathi.exe...;%3E+learning+DSA+%F0%9F%A7%A0;%3E+solving+problems+%F0%9F%94%A5;%3E+building+projects+%F0%9F%92%BB;%3E+debugging+my+way+forward+%F0%9F%90%9B;%3E+system.status%3Dlearning" />
 
 </div>
 
-<br>
 
----
+
+
+
+
+
+
+
 
 <!-- ======================= TECH STACK ======================= -->
 
