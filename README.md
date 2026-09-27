@@ -120,7 +120,7 @@
 
 `👩‍💻 Portfolio` &nbsp; `⚛️ React`
 
-<br><br>
+<br><br><br>
 
 <a href="https://github.com/Rajahmundryswathi/portfolio">
 <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
@@ -174,7 +174,7 @@
 
 `🐍 Python` &nbsp; `📚 Learning`
 
-<br><br>
+<br><br><br>
 
 <a href="https://github.com/Rajahmundryswathi/Advanced_python_skill_oriented_course">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
